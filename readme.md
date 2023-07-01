@@ -1,6 +1,6 @@
-<h1 align="center"> Meu Portfólio </h1>
+<h1 align="center">Portfólio </h1>
 
-<p align="center">Projeto criado para criação do meu portfólio, onde incluirá informações sobre mim, sobre meus projetos, minha habilidades e meus contatos.</p>
+<p align="center">Projeto criado para o desafio Discover da Rocketseat, afim de aplicar os conhecimentos de HTML e CSS.</p>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
